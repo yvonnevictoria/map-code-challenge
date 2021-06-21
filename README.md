@@ -72,4 +72,4 @@ This was a bit difficult to explain via text so feel free to ask me more questio
 ## A final note
 This code challenge was an especially interesting one for me as I've never worked with image processing in this way/maps before. Everything I implemented, I learned as I went along. I'm not necessarily happy with the quality of the code, but this was my first attempt at this type of coding so I'm sure I'll improve as time goes on. Please forgive any rookie errors and I hope this is taken into consideration while looking at the challenge. I'm more than happy to explain any decisions I made over a call.
 
-![alt text](./public/app-screenshot.png "Screenshot of running app")
+![alt text](./public/app-screenshot-210620.png "Screenshot of app")
